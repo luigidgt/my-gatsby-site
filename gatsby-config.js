@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "My Gatsby Site",
   },
-  plugins: ["gatsby-plugin-sass", "gatsby-plugin-gatsby-cloud"],
+  plugins: ["gatsby-plugin-gatsby-cloud"],
 };
